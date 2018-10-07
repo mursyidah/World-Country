@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Country</string>
+
+    <string-array name="Country">
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+    </string-array>
+    <string name="title_activity_country">CountryActivity</string>
+</resources>
